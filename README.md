@@ -1,3 +1,4 @@
 # demo
-Git _ 특강
-#asfjkjfbkjfbrj,
+git 특강
+
+feature/a 기능 추가
